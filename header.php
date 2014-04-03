@@ -53,7 +53,7 @@
 	<div class="main-nav">
 		<div class="row">
 			<div class="six columns">
-					<img src="<?php bloginfo('template_url'); ?>/assets/img/logo.png" alt="">
+					<a href="<?php bloginfo('url'); ?>"><img src="<?php bloginfo('template_url'); ?>/assets/img/logo.png" alt=""></a>
 			</div>
 			<div class="navbar fourteen columns" id="nav2">
 			 	<!-- Toggle for mobile navigation, targeting the <ul> -->

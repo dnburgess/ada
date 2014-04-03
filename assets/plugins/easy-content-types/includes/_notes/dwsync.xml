@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="admin-menus.php" server="ppmmdd.com" local="130338492579378522" remote="130338470400000000" Dst="1" />
+<file name="admin-notices.php" server="ppmmdd.com" local="130338492581318633" remote="130338470400000000" Dst="1" />
+<file name="caching-functions.php" server="ppmmdd.com" local="130338492581328634" remote="130338470400000000" Dst="1" />
+<file name="display-functions.php" server="ppmmdd.com" local="130338492594649396" remote="130338470400000000" Dst="1" />
+<file name="ecpt-widgets.php" server="ppmmdd.com" local="130338492596499502" remote="130338470400000000" Dst="1" />
+<file name="export-admin.php" server="ppmmdd.com" local="130338492596499502" remote="130338470400000000" Dst="1" />
+<file name="help-page.php" server="ppmmdd.com" local="130338492598609622" remote="130338470400000000" Dst="1" />
+<file name="install.php" server="ppmmdd.com" local="130338492603609908" remote="130338470400000000" Dst="1" />
+<file name="meta-add-new-field-form.php" server="ppmmdd.com" local="130338492605620023" remote="130338470400000000" Dst="1" />
+<file name="meta-add-new-form.php" server="ppmmdd.com" local="130338492607070106" remote="130338470400000000" Dst="1" />
+<file name="meta-field-edit.php" server="ppmmdd.com" local="130338492607100108" remote="130338470400000000" Dst="1" />
+<file name="meta-field-functions.php" server="ppmmdd.com" local="130338492609910269" remote="130338470400000000" Dst="1" />
+<file name="meta-fields-edit.php" server="ppmmdd.com" local="130338492609940270" remote="130338470400000000" Dst="1" />
+<file name="metabox-add-new.php" server="ppmmdd.com" local="130338492611870381" remote="130338470400000000" Dst="1" />
+<file name="metabox-admin.php" server="ppmmdd.com" local="130338492611900383" remote="130338470400000000" Dst="1" />
+<file name="meta-field-options.php" server="ppmmdd.com" local="130338492615380582" remote="130338470400000000" Dst="1" />
+<file name="metabox-edit.php" server="ppmmdd.com" local="130338492616760661" remote="130338470400000000" Dst="1" />
+<file name="metabox-functions.php" server="ppmmdd.com" local="130338492616760661" remote="130338470400000000" Dst="1" />
+<file name="metabox-list.php" server="ppmmdd.com" local="130338492618720773" remote="130338470400000000" Dst="1" />
+<file name="misc-functions.php" server="ppmmdd.com" local="130338492618720773" remote="130338470400000000" Dst="1" />
+<file name="page-home.php" server="ppmmdd.com" local="130338492618760775" remote="130338470400000000" Dst="1" />
+<file name="plugin-action-links.php" server="ppmmdd.com" local="130338492620710886" remote="130338470400000000" Dst="1" />
+<file name="post-types-admin.php" server="ppmmdd.com" local="130338492622500989" remote="130338470400000000" Dst="1" />
+<file name="post-types-edit.php" server="ppmmdd.com" local="130338492622620996" remote="130338470400000000" Dst="1" />
+<file name="post-types-list.php" server="ppmmdd.com" local="130338492624481102" remote="130338470400000000" Dst="1" />
+<file name="process-ajax-data.php" server="ppmmdd.com" local="130338492624481102" remote="130338470400000000" Dst="1" />
+<file name="process-data.php" server="ppmmdd.com" local="130338492624681114" remote="130338470400000000" Dst="1" />
+<file name="query-filters.php" server="ppmmdd.com" local="130338492626451215" remote="130338470400000000" Dst="1" />
+<file name="register-meta-boxes.php" server="ppmmdd.com" local="130338492626471216" remote="130338470400000000" Dst="1" />
+<file name="register-post-types.php" server="ppmmdd.com" local="130338492626511218" remote="130338470400000000" Dst="1" />
+<file name="register-taxonomies.php" server="ppmmdd.com" local="130338492628431328" remote="130338470400000000" Dst="1" />
+<file name="scripts.php" server="ppmmdd.com" local="130338492628431328" remote="130338470400000000" Dst="1" />
+<file name="settings.php" server="ppmmdd.com" local="130338492628561335" remote="130338470400000000" Dst="1" />
+<file name="shortcodes.php" server="ppmmdd.com" local="130338492630361438" remote="130338470400000000" Dst="1" />
+<file name="taxonomies-admin.php" server="ppmmdd.com" local="130338492630361438" remote="130338470400000000" Dst="1" />
+<file name="taxonomy-edit.php" server="ppmmdd.com" local="130338492630411441" remote="130338470400000000" Dst="1" />
+<file name="taxonomy-functions.php" server="ppmmdd.com" local="130338492632341552" remote="130338470400000000" Dst="1" />
+<file name="taxonomy-list.php" server="ppmmdd.com" local="130338492632341552" remote="130338470400000000" Dst="1" />
+<file name="upgrades.php" server="ppmmdd.com" local="130338492632391555" remote="130338470400000000" Dst="1" />
+</dwsync>

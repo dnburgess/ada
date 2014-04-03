@@ -30,7 +30,7 @@
 			</ul>
 		</div>
 		<div class="branding">
-			<a href="#"><img src="<?php bloginfo('template_url'); ?>/assets/img/white-logo.png" alt=""></a>
+			<a href="<?php bloginfo('url'); ?>"><img src="<?php bloginfo('template_url'); ?>/assets/img/white-logo.png" alt=""></a>
 			<img src="<?php bloginfo('template_url'); ?>/assets/img/cc.png" alt="">
 		</div>
 	</div>
