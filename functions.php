@@ -4,6 +4,10 @@
 include_once 'acera-options/options-init.php';
 include_once 'assets/plugins/easy-content-types/easy-content-types.php';
 
+
+
+
+
 // Register Navigation Menus
 function custom_navigation_menus() {
 	$locations = array(

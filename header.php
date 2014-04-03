@@ -13,6 +13,7 @@
 	<!-- We highly recommend you use SASS and write your custom styles in sass/_custom.scss.
 		 However, there is a blank style.css in the css directory should you prefer -->
 	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/gumby.css">
+	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/store.css">
 	<!-- <link rel="stylesheet" href="css/style.css"> -->
 	<link href='http://fonts.googleapis.com/css?family=Condiment|Alegreya+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/assets/mobilenav/mobile-nav.css" />

@@ -86,6 +86,7 @@
 	<script src="<?php bloginfo('template_url'); ?>/assets/bower_components/gumby/js/plugins.js"></script>
 	<script src="<?php bloginfo('template_url'); ?>/assets/bower_components/gumby/js/main.js"></script>
 	<script src="<?php bloginfo('template_url'); ?>/assets/js/gumby.min.js"></script>
+	<script src="<?php bloginfo('template_url'); ?>/assets/bower_components/gumby/js/libs/ui/gumby.tabs.js"><\/script>
 	<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/elastislide/js/jquerypp.custom.js"></script>
 	<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/assets/elastislide/js/jquery.elastislide.js"></script>
 
