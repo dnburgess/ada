@@ -14,6 +14,8 @@
 		 However, there is a blank style.css in the css directory should you prefer -->
 	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/gumby.css">
 	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/store.css">
+	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/forum.css">
+	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/events.css">
 	<!-- <link rel="stylesheet" href="css/style.css"> -->
 	<link href='http://fonts.googleapis.com/css?family=Condiment|Alegreya+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/assets/mobilenav/mobile-nav.css" />
@@ -90,7 +92,27 @@
 <?php if(!is_front_page()) { ?>
 <section class="page-title">
 	<div class="row">
+		<?php if ( is_post_type_archive('faqs') ) { ?>
+		<h1 itemprop="name">FAQs</h1>
+		<?php } ?>
+		<?php if ( is_post_type_archive('tribe_events') ) { ?>
+		<h1 itemprop="name">Events</h1>
+		<?php } ?>
+		<?php if ( is_post_type_archive('forum') ) { ?>
+		<h1 itemprop="name">Forum</h1>
+		<?php } ?>
+		<?php if ( is_post_type_archive('instructors') ) { ?>
+		<h1 itemprop="name">Instructors</h1>
+		<?php } ?>
+		<?php if ( is_post_type_archive('testimonials') ) { ?>
+		<h1 itemprop="name">Testimonials</h1>
+		<?php } ?>
+		<?php if ( is_single() ) { ?>
+		<h1 itemprop="name"><?php echo tribe_get_events_title() ?></h1>
+		<?php } ?>
+		<?php if(is_page()) { ?>
 		<h1 itemprop="name"><?php the_title(); ?></h1>
+		<?php } ?>
 	</div>
 </section><!-- End .page-title -->
 <section class="breadcrumb">

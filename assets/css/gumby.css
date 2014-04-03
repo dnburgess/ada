@@ -1,5 +1,10 @@
 @charset "IBM437";
 @import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);
+* { 
+-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+box-sizing: border-box;         /* Opera/IE 8+ */
+}
 /**
 * Gumby Framework
 * ---------------
@@ -1700,7 +1705,7 @@ form label.inline { display: inline-block; padding-right: 20px; }
 form dt { margin: 0; }
 form textarea { height: 150px; }
 form ul, form ul li { margin-left: 0; list-style-type: none; }
-form fieldset { border-style: solid; border-width: 0.0625em; padding: 1.5625em; border-color: #d8d8d8; margin: 18px 0; }
+form fieldset { }
 form fieldset legend { padding: 5px 10px; }
 
 .field { position: relative; max-width: 100%; margin-bottom: 10px; vertical-align: middle; font-size: 16px; overflow: hidden; }
@@ -2077,7 +2082,7 @@ article .page-title {display:none;}
 
 .inside-pages { background: #fff !important; }
 .inside-pages article { width: 68% !important; max-width: 100% !important; float: left !important; color: #000 !important; padding: 0 40px !important; margin: 30px 0 0 !important; }
-.inside-pages aside { width: 27% !important; min-width: 300px !important; float: right !important; margin-top: 25px !important; margin-bottom: 25px !important; }
+.inside-pages aside { width: 27% !important; min-width: 300px !important; float: left !important; margin-top: 25px !important; margin-bottom: 25px !important; }
 .inside-pages aside .sidebar-testimonials { width: 100% !important; float: left !important; background: url(../img/testimonials-bg.png) !important; padding: 10px 25px 0px !important; }
 .inside-pages aside .testimonial { width: 96% !important; height: 100% !important; background: #fff !important; padding: 10px !important; background-size: cover !important; position: relative !important; box-shadow: 0px 0px 5px #333; margin: 0px 0px 30px 0px !important; z-index: 1 !important; margin-top: 4px !important; }
 .inside-pages aside .testimonial:after { content: ""; position: absolute; bottom: -30px; left: 50px; border-width: 0 20px 30px 0px; border-style: solid; border-color: transparent #fff; display: block; width: 0; z-index: -1; }

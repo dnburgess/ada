@@ -1,0 +1,14 @@
+.tribe-events-event-meta .tribe-events-meta-group, .tribe-events-event-meta .column {
+	width:48%;
+	margin:1%;
+	float:left;
+}
+.tribe-events-meta-group .tribe-events-single-section-title {
+	font-size: 23px;
+	font-weight: 400;
+	color: #121212;
+}
+table.tribe-events-tickets td {
+	border-bottom: 1px solid #ddd !important;
+	padding:20px !important;
+}
